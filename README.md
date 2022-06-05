@@ -1,11 +1,12 @@
 # OSSLab_FinalProject
 
+
 ## What does this project do? 
   * This project is a calculator that can be run on Raspberry Pi.
 
 
 ## Why is this project useful?
-  * This calculator has the advantage of being able to calculate decimals easily. And anyone can use it easily because it is calculated by pressing the button directly. You can also check the calculation process continuously. In addition, it is possible to erase one letter at a time, so you can calculate different numbers one after another.
+  * This calculator has the advantage of able to calculate decimals number easily. And anyone can use it easily because it is calculated by pressing the button directly. You can also check the calculation process continuously. In addition, it is possible to erase one letter at a time, so you can calculate different numbers one after another.
     Anyone who needs a calculator can use it. It is also useful for those who need to calculate the number of squares.
   
   
@@ -17,16 +18,17 @@
       +Activate 'Enable X11 forwarding'
      
       +Run Raspberry Pie on Terminal
-     javac Final_project.java
+     javac final_project.java
      java final_project
     
   ### Mac
      https://www.xquartz.org/
       +Install Xquartz via the top link
+      
       +start terminal
      ssh -X pi@ip_add
-     
-     javac Final_project.java
+ 
+     javac final_project.java
      java final_project
     
 
@@ -41,13 +43,19 @@
     5) Correction of decimal calculation results errors (resolving floating point errors) 
     6) Resolving Korean Output Errors
 
-
+ 
 
 ## Where can people get more help, if needed
   ### Presentation Video in YOUTUBE
    * ..
  ### contact me
    * jimin@handong.ac.kr
+
+
+ ### reference
+   - https://show400035.tistory.com/46?category=975925
+   - https://gsk121.tistory.com/58
+
   
 
 
