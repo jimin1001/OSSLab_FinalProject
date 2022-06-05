@@ -34,20 +34,20 @@
   
   * Based on the open source code, the contents below were added and modified.
 
-    1)Panel (Button) Position, Reconfigure Color 
-    2)Add a Real-Time Calculation Status Bulletin 
-    3)Add the square number calculation function
-    4)decimal calculation function, adding decimal buttons
-    5)Correction of decimal calculation results errors (resolving floating point errors) 
-    6)Resolving Korean Output Errors
+    1) Panel (Button) Position, Reconfigure Color 
+    2) Add a Real-Time Calculation Status Bulletin 
+    3) Add the square number calculation function
+    4) decimal calculation function, adding decimal buttons
+    5) Correction of decimal calculation results errors (resolving floating point errors) 
+    6) Resolving Korean Output Errors
 
 
 
 ## Where can people get more help, if needed
   ### Presentation Video in YOUTUBE
    * ..
-  ### contact me
-   *jimin@handong.ac.kr
+ ### contact me
+   * jimin@handong.ac.kr
   
 
 
