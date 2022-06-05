@@ -21,20 +21,20 @@
     *java final_project
     
   ### Mac
-    *https://www.xquartz.org/
+    * https://www.xquartz.org/
       Install Xquartz via the top link
-    *start terminal
-    *ssh -X pi@ip_add
+    * start terminal
+    * ssh -X pi@ip_add
      
-    *javac Final_project.java
-    *java final_project
+    * javac Final_project.java
+    * java final_project
     
 
 ## What your contribution to your project?
   
   * Based on the open source code, the contents below were added and modified.
 
-    1)Panel (Button) Position, Reconfigure Color
+    1)Panel (Button) Position, Reconfigure Color 
     2)Add a Real-Time Calculation Status Bulletin 
     3)Add the square number calculation function
     4)decimal calculation function, adding decimal buttons
