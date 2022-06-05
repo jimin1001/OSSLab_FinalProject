@@ -1,3 +1,3 @@
 # OSSLab_FinalProject
 
-WHat does this project do? 
+What does this project do? 
