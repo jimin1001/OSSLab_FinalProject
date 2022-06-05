@@ -11,23 +11,23 @@
   
 ## How to get started?
   ### Window
-    * https://sourceforge.net/projects/xming/
+     https://sourceforge.net/projects/xming/
       Install xming via the top link
-    * start putty, connection->ssh->x11
-    * Activate 'Enable X11 forwarding'
+     start putty, connection->ssh->x11
+     Activate 'Enable X11 forwarding'
      
-     Run Raspberry Pie on Terminal
-    *javac Final_project.java
-    *java final_project
+      Run Raspberry Pie on Terminal
+     javac Final_project.java
+     java final_project
     
   ### Mac
-    * https://www.xquartz.org/
+     https://www.xquartz.org/
       Install Xquartz via the top link
-    * start terminal
-    * ssh -X pi@ip_add
+     start terminal
+     ssh -X pi@ip_add
      
-    * javac Final_project.java
-    * java final_project
+     javac Final_project.java
+     java final_project
     
 
 ## What your contribution to your project?
@@ -45,9 +45,9 @@
 
 ## Where can people get more help, if needed
   ### Presentation Video in YOUTUBE
-    * ..
+   * ..
   ### contact me
-    *jimin@handong.ac.kr
+   *jimin@handong.ac.kr
   
 
 
