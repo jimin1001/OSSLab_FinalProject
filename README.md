@@ -52,8 +52,8 @@
 
 
   ### contact 
-     If you need some help or want to get more information. please contact me.
-     * jimin@hanbond.ac.kr
+   If you need some help or want to get more information. please contact me.
+   * jimin@hanbond.ac.kr
 
   ### reference
    - https://show400035.tistory.com/46?category=975925
