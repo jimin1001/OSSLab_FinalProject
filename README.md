@@ -55,6 +55,7 @@
    - https://show400035.tistory.com/46?category=975925
    - https://gsk121.tistory.com/58
 
-   * jimin@handong.ac.kr
+
+ * jimin@handong.ac.kr
 
 
