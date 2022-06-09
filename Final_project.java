@@ -49,7 +49,7 @@ public class Final_project extends JFrame{
 		public NorthPanel() {
 			setLayout(new GridLayout(4,1));
 			setBackground(Color.gray); //상단 배경 
-			setForeground(Color.red);//..안먹음 
+			setForeground(Color.red);
 
 
 			info = new JLabel("계산할 수와 연산자를 입력하세요");
